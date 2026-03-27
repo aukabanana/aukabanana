@@ -45,7 +45,7 @@
 
 <br>
 
-> ### Additional Skill
+> ### Additional Skills
 
 [![My Skills](https://skillicons.dev/icons?i=blender,sketchup,figma,ps)](https://skillicons.dev)
 
