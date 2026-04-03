@@ -47,7 +47,7 @@
 
 > ### Additional Skills
 
-[![My Skills](https://skillicons.dev/icons?i=blender,sketchup,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,sketchup,ps.figma)](https://skillicons.dev)
 
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="32px" /> &nbsp;
