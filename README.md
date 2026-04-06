@@ -67,7 +67,7 @@
 
 <br>
 
-> ### Creative
+> ### Social Creative
 
 [![Instagram](https://img.shields.io/badge/Instagram-Photography-833AB4?logo=instagram&logoColor=white)](https://instagram.com/lemmehandlethisna)
 [![Instagram](https://img.shields.io/badge/Instagram-3D_Modeling-F77737?logo=instagram&logoColor=white)](https://instagram.com/auka_blenblend)
