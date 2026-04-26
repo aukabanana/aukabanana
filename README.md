@@ -17,20 +17,28 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,java" />
 </p>
 
+<br>
+
 ## 🛠 Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,postman,arch" />
 </p>
+
+<br>
 
 ## 📚 Currently Exploring
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,express,python" />
 </p>
 
+<br>
+
 ## 🎨 Creative Stack
 <p>
   <img src="https://skillicons.dev/icons?i=blender,sketchup,figma,photoshop" />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=2&width=1000" width="100%" />
