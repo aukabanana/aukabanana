@@ -9,7 +9,7 @@
 > `🎸 Guitarist` • `📷 Photography` • `🔭 Stargazing`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=2&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=1&width=1000" width="100%" />
 </p>
 
 ## 💻 Core Stack
@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=2&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=1&width=1000" width="100%" />
 </p>
 
 ## 🌐 Connect with me
@@ -55,16 +55,24 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=2&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=1&width=1000" width="100%" />
 </p>
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight" width="46%" />
-  <img src="https://streak-stats.demolab.com/?user=aukabanana&theme=tokyonight" width="48.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight" width="48%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=aukabanana&theme=tokyonight" width="50.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aukabanana&theme=tokyo-night" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aukabanana&theme=tokyo-night" width="100%" />
+</p>
+
+## 🎪 Something Fun
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&width=1000&section=footer" width="100%"/>
 </p>
