@@ -9,7 +9,7 @@
 
 > ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,bootstrap,tailwind,figma,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,bootstrap,tailwind)](https://skillicons.dev)
 
 <br>
 
@@ -25,9 +25,9 @@
 
 <br>
 
-> ### Additional Skills
+> ### Creative Stack
 
-[![My Skills](https://skillicons.dev/icons?i=blender,sketchup)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,sketchup,figma,photoshop)](https://skillicons.dev)
 
 <br>
 
@@ -45,8 +45,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-Photography-833AB4?logo=instagram&logoColor=white)](https://instagram.com/lemmehandlethisna)
 [![Instagram](https://img.shields.io/badge/Instagram-3D_Modeling-F77737?logo=instagram&logoColor=white)](https://instagram.com/auka_blenblend)
-
-
 
 ![stats](https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight)
 ![streak](https://streak-stats.demolab.com/?user=aukabanana&theme=tokyonight)
