@@ -72,6 +72,7 @@
 
 ## 🎪 Something Fun
 
+![snake](https://github.com/aukabanana/aukabanana/blob/output/snake-dark.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&width=1000&section=footer" width="100%"/>
