@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Auka 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&center=true&vCenter=true&lines=Frontend+•+UX/UI+•+3D;" />
-</p>
-
 > `🎨 UX/UI Design` • `🗿 Frontend Developer` • `👾 3D Modeling`
 >
 > `🎸 Guitarist` • `📷 Photography` • `🔭 Stargazing`
@@ -44,6 +40,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=1&width=1000" width="100%" />
 </p>
 
+<br>
+
 ## 🌐 Connect with me
 
 <p>
@@ -54,26 +52,28 @@
   <a href="https://instagram.com/auka_blenblend"><img src="https://img.shields.io/badge/3D_Modeling-F77737?logo=instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=1&width=1000" width="100%" />
-</p>
+<br>
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aukabanana&layout=compact&theme=tokyonight&langs_count=8" width="23.5%" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=aukabanana&theme=tokyonight" width="50.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight" width="35.5%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=aukabanana&theme=tokyonight" width="38%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aukabanana&theme=tokyo-night" width="100%" />
-</p>
+</p> -->
+
+<br>
 
 ## 🎪 Something Fun
 
 ![snake](https://github.com/aukabanana/aukabanana/blob/output/snake-dark.svg)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&width=1000&section=footer" width="100%"/>
-</p>
+</p> -->
