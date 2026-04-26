@@ -1,51 +1,62 @@
-## Hi, I'm Auka
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Frontend+Developer;UX/UI+Designer;3D+Artist)
+<h1 align="center">Hi, I'm Auka 👋</h1>
 
-> `🎨 UX/UI design` : `🗿 Frontend developer` : `👾 3D modeling`
-> 
-> `🎸 Guitarist` : `📷 Camera` : `🔭 Stargazing`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&center=true&vCenter=true&lines=Frontend+•+UX/UI+•+3D;" />
+</p>
 
-<br>
+> `🎨 UX/UI Design` • `🗿 Frontend Developer` • `👾 3D Modeling`
+>
+> `🎸 Guitarist` • `📷 Photography` • `🔭 Stargazing`
 
-> ### Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=2&width=1000" width="100%" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,bootstrap,tailwind)](https://skillicons.dev)
+## 💻 Core Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,java" />
+</p>
 
-<br>
+## 🛠 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,postman,arch" />
+</p>
 
-> ### DevOps & Tools
+## 📚 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,express,python" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,postman,arch)](https://skillicons.dev)
+## 🎨 Creative Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,sketchup,figma,photoshop" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=2&width=1000" width="100%" />
+</p>
 
-> ### Learning...
+## 🌐 Connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,express)](https://skillicons.dev)
+<p>
+  <a href="https://github.com/aukabanana"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/></a>
+  <a href="mailto:hope25501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/auka_banana"><img src="https://img.shields.io/badge/Instagram-Main-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/lemmehandlethisna"><img src="https://img.shields.io/badge/Photography-833AB4?logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/auka_blenblend"><img src="https://img.shields.io/badge/3D_Modeling-F77737?logo=instagram&logoColor=white"/></a>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=2&width=1000" width="100%" />
+</p>
 
-> ### Creative Stack
+## 📊 GitHub Activity
 
-[![My Skills](https://skillicons.dev/icons?i=blender,sketchup,figma,photoshop)](https://skillicons.dev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight" width="46%" />
+  <img src="https://streak-stats.demolab.com/?user=aukabanana&theme=tokyonight" width="48.5%" />
+</p>
 
-<br>
-
-> ### Social
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/aukabanana)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) -->
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hope25501@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/ratchapol.toopthong)
-[![Instagram](https://img.shields.io/badge/Instagram-Main-E4405F?logo=instagram&logoColor=white)](https://instagram.com/auka_banana)
-
-<br>
-
-> ### Social Creative
-
-[![Instagram](https://img.shields.io/badge/Instagram-Photography-833AB4?logo=instagram&logoColor=white)](https://instagram.com/lemmehandlethisna)
-[![Instagram](https://img.shields.io/badge/Instagram-3D_Modeling-F77737?logo=instagram&logoColor=white)](https://instagram.com/auka_blenblend)
-
-![stats](https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight)
-![streak](https://streak-stats.demolab.com/?user=aukabanana&theme=tokyonight)
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=aukabanana&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aukabanana&theme=tokyo-night" width="96%" />
+</p>
