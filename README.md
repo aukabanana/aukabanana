@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Auka 👋</h1>
+<h1 align="center">Hi, I'm Auka (Hope Ratchapol Toopthong) 👋</h1>
 
 > `🎨 UX/UI Design` • `🗿 Frontend Developer` • `👾 3D Modeling`
 >
