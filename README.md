@@ -35,7 +35,7 @@
 
 ## 🎨 Creative Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=blender,sketchup,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=blender,sketchup,photoshop,figma" />
 </p>
 
 <br>
