@@ -28,7 +28,7 @@
 
 ## 📚 Currently Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,express,python" />
+  <img src="https://skillicons.dev/icons?i=ts,react,next,express,python" />
 </p>
 
 <br>
