@@ -12,16 +12,24 @@
 
 <br>
 
-## 💻 Core Stack
+## 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,md" />
+</p>
+
+<br>
+
+## 📚 Library
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" />
 </p>
 
 <br>
 
 ## 🛠 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,postman,arch" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,vercel,arch" />
 </p>
 
 <br>
