@@ -47,23 +47,21 @@
 
 ---
 
-<!-- ## 📊 Metrics & Contributions
+## 📊 Metrics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aukabanana&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=aukabanana&theme=tokyonight" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aukabanana&layout=compact&theme=tokyonight&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aukabanana&layout=compact&theme=tokyonight&langs_count=8" width="40%" alt="Top Languages" />
   &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aukabanana&theme=tokyo-night" width="48%" alt="Activity Graph" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aukabanana&theme=tokyo-night" width="48%" alt="Activity Graph" /> -->
 </p>
 
 ---
-
--->
 
 ## 🎪 Something Fun
 
