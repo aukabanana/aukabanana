@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=figma,blender,sketchup,photoshop" alt="Creative Stack" />
 
 ### ⚙️ Tools, DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,postman,vercel,arch" alt="Tools and DevOps" />
+<img src="https://skillicons.dev/icons?i=docker,postman,vercel,arch,debian" alt="Tools and DevOps" />
 
 ### 🔍 Currently Exploring
 <img src="https://skillicons.dev/icons?i=python,lua" alt="Exploring" />
