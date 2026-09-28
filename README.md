@@ -12,15 +12,15 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" alt="Languages" />
 
 ### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,next,express,bootstrap,tailwind,materialui" alt="Frameworks and Libraries" />
+<img src="https://skillicons.dev/icons?i=astro,react,next,express,bootstrap,tailwind,materialui" alt="Frameworks and Libraries" />
+
+### ⚙️ Tools, DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,postman,vercel,cloudflare,supabase,npm,pnpm,arch,debian" alt="Tools and DevOps" />
 
 ### 🎨 Creative Stack & 3D Modeling
 <img src="https://skillicons.dev/icons?i=figma,blender,sketchup,photoshop" alt="Creative Stack" />
 
-### ⚙️ Tools, DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,postman,vercel,arch,debian" alt="Tools and DevOps" />
-
-### 🔍 Currently Exploring
+### 🔍 Currently Exploring 
 <img src="https://skillicons.dev/icons?i=python,lua" alt="Exploring" />
 
 ---
